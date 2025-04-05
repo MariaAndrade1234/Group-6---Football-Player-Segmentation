@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Dados que não devem ser versionados
+data/raw/
+data/processed/
+
+# Arquivos grandes (já rastreados com Git LFS)
+*.jpg
+*.png
+
+# Arquivos do VSCode
+.vscode/
+
+# Logs e temporários
+*.log
+*.tmp

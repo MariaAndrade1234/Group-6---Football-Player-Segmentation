@@ -1,0 +1,10 @@
+RELATÓRIO DE DUPLICAÇÃO DE IMAGENS
+
+Total de imagens: 511
+Imagens únicas: 401
+Número de duplicatas: 110
+Percentual de duplicação: 21.53%
+
+IDs de imagem no JSON: 512
+IDs únicos: 512
+IDs duplicados: 0
