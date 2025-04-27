@@ -1,0 +1,7 @@
+path: /home/beatrizdev/grupo6/archive (1)/data
+train: images/train
+val: images/val
+names:
+  0: player
+  1: ball
+
